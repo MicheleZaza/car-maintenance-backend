@@ -167,3 +167,4 @@ C:\Users\mzaza\source\repos\CarMaintenanceApi\CarMaintenanceApi\obj\Debug\net10.
 C:\Users\mzaza\source\repos\CarMaintenanceApi\CarMaintenanceApi\obj\Debug\net10.0\CarMaintenanceApi.pdb
 C:\Users\mzaza\source\repos\CarMaintenanceApi\CarMaintenanceApi\obj\Debug\net10.0\CarMaintenanceApi.genruntimeconfig.cache
 C:\Users\mzaza\source\repos\CarMaintenanceApi\CarMaintenanceApi\obj\Debug\net10.0\ref\CarMaintenanceApi.dll
+C:\Users\mzaza\source\repos\CarMaintenanceApi\CarMaintenanceApi\obj\Debug\net10.0\CarMaintenanceApi.sourcelink.json
